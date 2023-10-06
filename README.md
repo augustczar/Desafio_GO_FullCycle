@@ -24,7 +24,7 @@ Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 Divirta-se!
 
 # Link Docker Hub
-```
+
 [Imagem publicada docker hub] (https://hub.docker.com/r/augustczar/fullcycle) 
 
 
